@@ -2,7 +2,7 @@
 
 블랙·그레이 테마의 Windows 체크리스트와 메모장입니다.
 
-[최신 설치 파일 다운로드](https://github.com/contentriumkorea/checkmemo-releases/releases/latest)
+[최신 설치 파일 다운로드](https://github.com/contentriumkorea/checkmemo/releases/latest)
 
 - 여러 메모장 탭, 체크리스트, 자유 메모, 자동 저장
 - 무료 메모장 1개 · 제공받은 라이선스 키로 활성화하면 여러 탭 사용
@@ -23,9 +23,9 @@
 
 ## 이미지 사용 가이드
 
-[1장 — 설치와 기본 사용](https://github.com/contentriumkorea/checkmemo-releases/releases/latest/download/guide-01.png)
+[1장 — 설치와 기본 사용](https://github.com/contentriumkorea/checkmemo/releases/latest/download/guide-01.png)
 
-[2장 — 백업·라이선스·업데이트](https://github.com/contentriumkorea/checkmemo-releases/releases/latest/download/guide-02.png)
+[2장 — 백업·라이선스·업데이트](https://github.com/contentriumkorea/checkmemo/releases/latest/download/guide-02.png)
 
 현재 설치 파일은 Windows 게시자 서명 인증서가 없는 빌드이므로 설치 시 게시자를 확인할 수 없다는 안내가 표시될 수 있습니다.
 
