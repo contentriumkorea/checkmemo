@@ -1,8 +1,12 @@
-# CheckMemo
+# TickNote
 
-블랙·그레이 테마의 Windows 체크리스트와 메모장입니다.
+![TickNote 커버](docs/ticknote-cover.svg)
 
-[최신 설치 파일 다운로드](https://github.com/contentriumkorea/checkmemo/releases/latest)
+할 일과 메모를 한곳에 모으는 Windows 체크리스트입니다. 기존 CheckMemo의 새 표시 이름이며 저장된 메모와 `.checkmemo` 백업은 계속 사용합니다.
+
+**[Windows 설치 파일 다운로드](https://github.com/contentriumkorea/checkmemo/releases/latest/download/CheckMemo-1.1.6-Windows-Setup.exe)** · [전체 릴리스](https://github.com/contentriumkorea/checkmemo/releases/latest)
+
+설치 파일과 바탕화면 바로가기에는 기존 업데이트 호환성을 위해 CheckMemo 이름이 남아 있습니다.
 
 - 프로젝트별 전체 메모장 목록, 제목·할 일·자유 메모 전체 검색 (Ctrl+K)
 - 자동 백업과 이전 시점 복원, 수동 기록, 삭제·불러오기·복원 전 백업
@@ -27,7 +31,7 @@
 
 ## 처음 사용하기
 
-1. Releases에서 `CheckMemo-1.1.5-Windows-Setup.exe`를 받아 실행합니다.
+1. Releases에서 `CheckMemo-1.1.6-Windows-Setup.exe`를 받아 실행합니다.
 2. 바탕화면의 앱 아이콘을 열고 **메모지 추가**를 누릅니다.
 3. 할 일을 입력하고 Enter를 누르세요. 완료한 항목은 체크합니다.
 4. **백업 저장**을 누르면 모든 탭을 전용 백업 파일로 보관할 수 있습니다.
@@ -45,3 +49,5 @@
 현재 설치 파일은 Windows 게시자 서명 인증서가 없는 빌드이므로 설치 시 게시자를 확인할 수 없다는 안내가 표시될 수 있습니다.
 
 이 저장소는 설치 파일과 업데이트 배포용입니다. 개인 메모, 활성화 키 원문, 사용자 프로필은 포함하지 않습니다.
+
+[![CONTENTRIUM 홈페이지](https://img.shields.io/badge/CONTENTRIUM-홈페이지-181818?style=for-the-badge)](https://contentrium.com/)
